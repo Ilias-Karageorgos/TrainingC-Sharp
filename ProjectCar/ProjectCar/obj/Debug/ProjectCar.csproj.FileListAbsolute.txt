@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\ProjectCar\ProjectCar\bin\Debug\ProjectCar.exe.config
+C:\Users\User\source\repos\ProjectCar\ProjectCar\bin\Debug\ProjectCar.exe
+C:\Users\User\source\repos\ProjectCar\ProjectCar\bin\Debug\ProjectCar.pdb
+C:\Users\User\source\repos\ProjectCar\ProjectCar\obj\Debug\ProjectCar.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\ProjectCar\ProjectCar\obj\Debug\ProjectCar.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\ProjectCar\ProjectCar\obj\Debug\ProjectCar.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ProjectCar\ProjectCar\obj\Debug\ProjectCar.exe
+C:\Users\User\source\repos\ProjectCar\ProjectCar\obj\Debug\ProjectCar.pdb
